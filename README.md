@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=250&section=header&text=Smit%20Jitendra%20Tandel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20•%20Learning%20•%20Exploring&descAlignY=58&descSize=20)" width="100%" alt="Smit Jitendra Tandel"/>
+<img src="<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Smit+Jitendra+Tandel;B.Tech+Electrical+%26+Computer+Engineering;Building+Projects+That+Matter;Exploring+Software+Development;Learning+AI+%26+Emerging+Technologies;Always+Learning+Something+New" alt="Typing SVG" />
+</p>" width="100%" alt="Smit Jitendra Tandel"/>
 
 # Hi 👋 I'm Smit Jitendra Tandel
 

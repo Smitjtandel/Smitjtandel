@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi 👋 I'm Smit Jitendra Tandel
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&center=true&width=650&lines=Welcome+to+my+GitHub!;B.Tech+ECE+Student;Always+Learning+New+Technologies;Building+Projects+That+Solve+Problems" />
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!--
 **Smitjtandel/Smitjtandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
